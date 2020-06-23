@@ -10,5 +10,9 @@ Usage:
   reacto.render("Your app component/function name", container)
   ```
   And remove same code from reacto.js (it will be fixed later :D)
+  
+  
+  
+
 4) Use npm run build to compile app component with babel
 5) Just open index.html file to run a site.
